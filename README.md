@@ -1,7 +1,11 @@
-### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&show_icons=true&theme=radical)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua)](https://github.com/Lcaichihua/Lcaichihua)
+
 <!--
 **Lcaichihua/Lcaichihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
