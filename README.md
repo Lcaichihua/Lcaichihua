@@ -3,13 +3,12 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/Lcaichihua)
 
-**Lcaichihua/Lcaichihua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Lcaichihua&repo=SimpleCrudjsp&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Microservices,AWS,AZURE
 - 👯 I’m looking to collaborate on Proyects StartUp
 - 🤔 I’m looking for help with Fronted
