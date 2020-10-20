@@ -1,5 +1,5 @@
 
-### Hi there, I'm Larry - Caichihua a Full Stack Developer 🚀 from Peru, I have experience in the design and building of applications .👋
+### Hi there, I'm Larry - Caichihua a Full Stack Developer 🚀 from Peru.👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/Lcaichihua)
 
 
