@@ -13,7 +13,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Microservices,cloud
 - 👯 I’m looking to collaborate on Proyects StartUp 
 - 💬 Ask me about Java,Net ,Design patterns, infrastructure
-- 📫 How to reach me: https://www.facebook.com/larryjhon.caichihuavergara/
 - 😄 Pronouns: Seiya
-- ⚡ Fun fact: PlayerDota2
 
