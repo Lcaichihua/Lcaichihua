@@ -1,5 +1,5 @@
 
-### Hi there, I'm Larry - Caichihua a Full Stack Developer 🚀 from Lima-Peru.👋
+### Hi , I'm Larry a Full Stack Developer 🚀 from Lima-Peru.👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&hide=contribs,prs&hide_icons=true&theme=radical)](https://github.com/Lcaichihua)
 
 
