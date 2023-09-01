@@ -21,7 +21,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-![Larry Jhon Caichihua Github Stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&count_private=true&show_icons=true&include_all_commits=false)
+[Larry Jhon Caichihua Github Stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&count_private=true&show_icons=true&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcaichihua&hide=TeX&layout=compact)
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Lcaichihua&repo=microservices-reactive-product&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
