@@ -26,9 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcaichihua&layout=compact&theme=vision-friendly-dark)](https://github.com/Lcaichihua/github-readme-stats)
 </p>
----
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Lcaichihua&repo=microservices-reactive-product&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Lcaichihua&repo=microservices-reactive-product&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_owner=true)
 <!--
 
 Here are some ideas to get you started:
