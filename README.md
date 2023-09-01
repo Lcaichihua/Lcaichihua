@@ -31,9 +31,6 @@
 </p>
 
 
-<p align="center"><img src="https://github.com/Lcaichihua?username=Lcaichihua&style=flat-square&color=blue" alt=""></p>
-
-
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
