@@ -1,6 +1,5 @@
 
 ### Hi , I'm Larry a Full Stack Developer 🚀 from Lima-Peru.👋
-<h2>Skills</h2>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
