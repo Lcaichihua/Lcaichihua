@@ -20,8 +20,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
- <p align="right"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="left"> 
+ <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 ### 🔥 &nbsp; My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcaichihua&layout=compact&theme=vision-friendly-dark)](https://github.com/Lcaichihua/github-readme-stats)
