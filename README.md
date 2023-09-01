@@ -2,7 +2,7 @@
 ### Hi , I'm Larry a Full Stack Developer 🚀 from Lima-Peru.👋
 <h3>Languages, frameworks and tools</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffb833?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
