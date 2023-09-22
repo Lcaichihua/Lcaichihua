@@ -56,7 +56,6 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Larry Jhon Caichihua Github Stats](https://github-readme-stats.vercel.app/api?username=Lcaichihua&count_private=true&show_icons=true&include_all_commits=true&layout=compact&theme=vision-friendly-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcaichihua&layout=compact&theme=vision-friendly-dark)
 
 ---
